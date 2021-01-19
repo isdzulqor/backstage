@@ -1,5 +1,14 @@
 # @backstage/plugin-register-component
 
+## 0.2.7
+
+### Patch Changes
+
+- Updated dependencies [33846acfc]
+- Updated dependencies [a93f42213]
+  - @backstage/plugin-catalog@0.2.12
+  - @backstage/catalog-model@0.7.0
+
 ## 0.2.6
 
 ### Patch Changes
